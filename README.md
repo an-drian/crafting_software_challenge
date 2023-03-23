@@ -43,4 +43,4 @@ curl --location --request POST 'http://localhost:4000/tasks' \
     ]
 }'
   ``` 
-Also feel free to use Postman, Insomnia or any whatever you like
+Also feel free to use Postman, Insomnia or any tool you like
